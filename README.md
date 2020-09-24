@@ -2,8 +2,6 @@
 
 > A curated list of wildland fire GIS resources
 
-Note: the list below deliberately avoids disciplinary categorization; digital scholarship projects tend to be interdisciplinary by nature, and therefore these tools are applicable to multiple disciplines.
-
 ## Contents
 
 - [Maps](#maps)
@@ -15,7 +13,7 @@ Note: the list below deliberately avoids disciplinary categorization; digital sc
 
 ## Maps
 
-Some tools for digital scholarship work:
+There are a number of web browser-based maps which already contain fire activity layers, making it easy to discover fire perimeters along with other pertinent wildfire-related data.
 
 - [TAPoR](http://tapor.ca/home) - Discover research tools for studying texts
 - [DiRT](https://digitalhumanities.berkeley.edu/projects/dirt-digital-research-tools) - Digital Research Tools
