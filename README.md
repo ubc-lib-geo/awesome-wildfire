@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Websites](#websites)
 - [Maps](#maps)
 - [Satellites](#satellites)
 - [Data](#data)
@@ -11,12 +12,19 @@
 - [Contribute](#contribute)
 - [License](#license)
 
+## Websites
+
+Some websites contain a number of relevant resources related to fire.
+
+- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home)
+- 
+
 ## Maps
 
 There are a number of web browser-based maps which already contain fire activity layers, making it easy to discover fire perimeters along with other pertinent wildfire-related data.
 
-- [TAPoR](http://tapor.ca/home) - Discover research tools for studying texts
-- [DiRT](https://digitalhumanities.berkeley.edu/projects/dirt-digital-research-tools) - Digital Research Tools
+- [CALTOPO](https://caltopo.com) - Map with multiple base layers, a Fire Activity layer accessing fire perimeters and multiple satellite infrafred data, and a Wind Plot layer
+- [CWFIS Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map) - Digital Research Tools
   - Bamboo DiRT is a registry of digital research tools for scholarly use. Developed by Project Bamboo, Bamboo DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
 - [Commons In A Box](https://commonsinabox.org) (CBOX) - 
   - takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.
