@@ -16,16 +16,16 @@
 
 Some websites contain a number of relevant resources related to fire.
 
-- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home)
+- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) - creates daily fire weather and fire behavior maps year-round and hot spot maps throughout the forest fire season, generally between May and September.
 - 
 
 ## Maps
 
 There are a number of web browser-based maps which already contain fire activity layers, making it easy to discover fire perimeters along with other pertinent wildfire-related data.
 
-- [CALTOPO](https://caltopo.com) - Map with multiple base layers, a Fire Activity layer accessing fire perimeters and multiple satellite infrafred data, and a Wind Plot layer
-- [CWFIS Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map) - Digital Research Tools
-  - Bamboo DiRT is a registry of digital research tools for scholarly use. Developed by Project Bamboo, Bamboo DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
+- [CALTOPO](https://caltopo.com) - Map with multiple base layers, a Fire Activity layer accessing fire perimeters in the U.S. and Canada and multiple satellite infrafred data, and a Wind Plot layer
+- [CWFIS Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map) - Interactive map with a number of overlays and possibility to retrieve historical data
+- [Canadian National Fire Database (CNFDB)](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb) - Bamboo DiRT is a registry of digital research tools for scholarly use. Developed by Project Bamboo, Bamboo DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
 - [Commons In A Box](https://commonsinabox.org) (CBOX) - 
   - takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.
 
@@ -63,7 +63,8 @@ There are a number of web browser-based maps which already contain fire activity
 
 ## Twitter Accounts
 
-* [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [Mapping Support](https://twitter.com/MappingSupport) - Personal Twitter handle of Joseph Elfelt, creator of GIS Surfer, who also posts URLs to fire maps. U.S.-centric.
+- [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
 
 ## Contribute
 
