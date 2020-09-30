@@ -3,6 +3,7 @@
 > A curated list of wildland fire GIS resources
 
 ## Contents
+- [Websites](#websites)
 - [Maps](#maps)
 - [Satellites](#satellites)
 - [Data](#data)
