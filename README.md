@@ -61,8 +61,6 @@ There are a number of web browser-based maps which already contain fire activity
 - [Mapping Support](https://twitter.com/MappingSupport) - Personal Twitter handle of Joseph Elfelt, creator of GIS Surfer, who also posts URLs to fire maps. U.S.-centric.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
 
-## Maps
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
