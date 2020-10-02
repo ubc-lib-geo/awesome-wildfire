@@ -5,7 +5,6 @@
 
 ## Contents
 - [Maps](#maps)
-- [Satellites](#satellites)
 - [Data](#data)
 - [Twitter Accounts](#twitter-accounts)
 - [Contribute](#contribute)
@@ -35,11 +34,16 @@ There are a number of web browser-based maps which already contain fire activity
 - [Canadian National Fire Database (CNFDB)](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb) - Forest fire perimeters
 
 
-## Satellites
-
-
-
 ## Data
+
+### Weather Data
+
+- [Weathernerds Satellite Data](https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES16&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=583&initrange=79.000000000000:-145.000000000000:35.000000000000:-50.000000000000&initloop=False&initnframes=20&initlightning16=On&initlightning17=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=Off&initascata=Off&initascatb=Off&initascatc=Off&initascatamba=Off&initascatambb=Off&initascatambc=Off&initsst=Off) - Satellite data from GOES 16, GOES 17, and Himawari. User can pan and zoom and create animated GIFs
+- [NEXLAB Satellite and Radar](https://weather.cod.edu/satrad/) - Global and regional data from College of DuPage via interactive application
+- [Regional and Mesoscale Meteorology Branch](https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&x=10848&y=10848) - SLIDER: Satellite Loop Interactive Data Explorer in Real-time is a web application to facilitate exploring  GOES-16 and Himawari-8 satellite imagery
+- [SSEC Geostationary Satellite Imagery](https://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16-17-comp&end_datetime=latest&n_images=48&coverage=mollweide&channel=14&image_quality=gif&anim_method=javascript) - Select satellite, timeframe, and geographic coverage to see animation of satellite data
+
+### GIS Data
 
 - [Forest Fires](http://nfdp.ccfm.org/en/download.php) - From the National Forestry Database
 - [Burn-P3](https://www.canadawildfire.org/burn-p3-english) - Burn-P3 (probability, prediction, and planning) is a spatial fire simulation model that is used for land-management planning and wildland fire research.
