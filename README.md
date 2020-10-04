@@ -32,7 +32,7 @@
 
 #### Britsh Columbia
 
-- [Current Wildfire Activity](Current Wildfire Activity) - Get information on current wildfire activity in B.C., including details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
+- [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Get information on current wildfire activity in B.C., including details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
 
 #### Saskatchewan
@@ -88,7 +88,7 @@ There are a number of web browser-based maps which already contain fire activity
 - [Radar and Lidar Observations of Wildfire Plume Dynamics](https://frg.berkeley.edu/radar-and-lidar-observations-of-wildfire-plume-dynamics/)
 - [Research using the NFID](http://nfidcanada.ca/project-status/) - research across Canadian universities using NFID data
 
-## Twitter Accounts
+## Twitter
 
 - [Canadian Partnership](https://twitter.com/CanadaWildfire) - Canadian Partnership to study wildland fire science and address priority research needs by creating a fire science hub
 - [Amy Christianson](https://twitter.com/ChristiansonAmy) - Fire research scientist advocating Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast)
