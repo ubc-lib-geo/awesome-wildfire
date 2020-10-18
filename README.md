@@ -1,9 +1,9 @@
 # Fire Resources List
 
-=======
 > A curated list of wildland fire GIS resources
 
 ## Contents
+
 - [Information Resources](#information-resources)
 - [Maps](#maps)
 - [Data](#data)
@@ -97,7 +97,6 @@ There are a number of web browser-based maps which already contain fire activity
 - [Mapping Support](https://twitter.com/MappingSupport) - Personal Twitter handle of Joseph Elfelt, creator of GIS Surfer, who also posts URLs to fire maps. U.S.-centric.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
 - [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - The NIFSC Project is designed to support Indigenous communities in development of their internal capacity to support community safety and resiliency.
-=======
 
 ## Contribute
 
