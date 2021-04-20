@@ -1,14 +1,18 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Thank you for your interest in contributing!
 
-## Adding an awesome list
+Please ensure your pull request adheres to the following guidelines:
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- If a category or section doesn't exist yet, propose the category/section by adding it at the appropiate place and be sure to add it to the table of contents.
+- If existing resources are not placed in the right category, move it in a different pull request or open an issue.
+- If you add resources with descriptions, add a dash (-) after the link and end the description with a dot (.) .
 
-## Creating your own awesome list
+Thank you for your suggestions!
 
-To create your own list, check out the [instructions](create-list.md).
+You can find instructions below on creating a pull request in order to contribute something to this awesome list.
 
 ## Adding something to an awesome list
 
