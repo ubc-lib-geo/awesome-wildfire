@@ -92,8 +92,8 @@ There are a number of web browser-based maps which already contain fire activity
 
 - [Canadian Partnership](https://twitter.com/CanadaWildfire) - Canadian Partnership to study wildland fire science and address priority research needs by creating a fire science hub.
 - [Amy Christianson](https://twitter.com/ChristiansonAmy) - Fire research scientist advocating Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast).
-- [Mike Flannigan](https://twitter.com/mikeflannigan) - Professor of Wildland Fire at University of Alberta
-- [FireSmart Canada](https://twitter.com/FireSmartCanada) - The go-to national program helping #Canadians reduce their #wildfire risk and build #resilience. Science-based programs & tools. #IAmFireSmart #FireSmart 
+- [Mike Flannigan](https://twitter.com/mikeflannigan) - Professor of Wildland Fire at University of Alberta.
+- [FireSmart Canada](https://twitter.com/FireSmartCanada) - The go-to national program helping #Canadians reduce their #wildfire risk and build #resilience. Science-based programs & tools.
 - [Mapping Support](https://twitter.com/MappingSupport) - Personal Twitter handle of Joseph Elfelt, creator of GIS Surfer, who also posts URLs to fire maps. U.S.-centric.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
 - [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - The NIFSC Project is designed to support Indigenous communities in development of their internal capacity to support community safety and resiliency.
