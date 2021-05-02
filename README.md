@@ -6,7 +6,7 @@
 
 - [Canada-Wide Information Resources](#information-resources)
 - [Regional Resources](#regional-resources)
-  - Alberta(#alberta)
+    - Alberta(#alberta)
   - 
 - [Maps](#maps)
 - [Data](#data)
