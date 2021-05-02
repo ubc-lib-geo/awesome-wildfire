@@ -6,10 +6,17 @@
 
 - [Canada-Wide Information Resources](#information-resources)
 - [Regional Resources](#regional-resources)
-    - Alberta(#alberta)
-  - 
+    - [Alberta](#alberta)
+    - [British Columbia](#british-columbia)
+    - [Manitoba](#manitoba)
+    - [New Brunswick](#new-brunswick)
+    - [Ontario](#ontario)
+    - [Saskatchewan](#saskatchewan)
 - [Maps](#maps)
 - [Data](#data)
+    - [Weather Data](#weather-data)
+    - [GIS Data](#gis-data)
+ - [GIS Fire Research](#gis-fire-research) 
 - [Twitter Accounts](#twitter-accounts)
 
 ## Canada-Wide Information Resources
@@ -31,26 +38,26 @@
 - [Fire Weather](https://wildfire.alberta.ca/wildfire-status/fire-weather/default.aspx) - Links to forecasts, observations, maps, and information.
 - [Historical Fire Data](https://wildfire.alberta.ca/resources/historical-data/default.aspx)
 
-### Britsh Columbia
+### British Columbia
 
 - [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Get information on current wildfire activity in B.C., including details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
-
-### Saskatchewan
-
-- [Wildfire in Saskatchewan](https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan) - Maps and information.
 
 ### Manitoba
 
 - [FireView 2020](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity in Manitoba.
 
+### New Brunswick
+
+- [Forest Fire Watch](https://www2.gnb.ca/content/gnb/en/news/public_alerts/forest_fire_watch.html) - Fire observations, weather, and information.
+
 ### Ontario
 
 - [Forest Fires](https://www.ontario.ca/page/forest-fires) - Information about the current forest fire danger, forest fire activity, and fire restrictions across the province.
 
-### New Brunswick
+### Saskatchewan
 
-- [Forest Fire Watch](https://www2.gnb.ca/content/gnb/en/news/public_alerts/forest_fire_watch.html) - Fire observations, weather, and information.
+- [Wildfire in Saskatchewan](https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan) - Maps and information.
 
 ## Maps
 
@@ -84,7 +91,7 @@ There are a number of web browser-based maps which already contain fire activity
 - [SMARTFIRE](https://firesmoke.ca/smartfire/) - The Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation is an algorithm and database system that operate within a geographic information system (GIS) framework. SMARTFIRE combines multiple sources of fire information and reconciles them into a unified GIS database.
 - [FireSmoke Data](https://firesmoke.ca/data/) - Emissions and Firemet downloadable data.
 
-## Fire Research Using GIS
+## GIS Fire Research
 
 - [Radar and Lidar Observations of Wildfire Plume Dynamics](https://frg.berkeley.edu/radar-and-lidar-observations-of-wildfire-plume-dynamics/)
 - [Research using the NFID](http://nfidcanada.ca/project-status/) - Research across Canadian universities using NFID data.
