@@ -4,12 +4,15 @@
 
 ## Contents
 
-- [Information Resources](#information-resources)
+- [Canada-Wide Information Resources](#information-resources)
+- [Regional Resources](#regional-resources)
+  - Alberta(#alberta)
+  - 
 - [Maps](#maps)
 - [Data](#data)
 - [Twitter Accounts](#twitter-accounts)
 
-## Information Resources
+## Canada-Wide Information Resources
 
 - [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) - Creates daily fire weather and fire behavior maps year-round and hot spot maps throughout the forest fire season, generally between May and September.
 - [Canada Wildfire](https://www.canadawildfire.org/) - The Canadian Partnership for Wildland Fire Science.
@@ -21,31 +24,31 @@
 - [GFMC Early Warning Portal](https://gfmc.online/fwf/fwf.html) - Daily Global and Regional Fire Weather and climate Forecasts & Background Materials.
 - [FireSmoke Canada](https://firesmoke.ca/) - Canadian portal for information and resources about smoke from wildland fires.
 
-### Regional Resources
+## Regional Resources
 
-#### Alberta
+### Alberta
 
 - [Fire Weather](https://wildfire.alberta.ca/wildfire-status/fire-weather/default.aspx) - Links to forecasts, observations, maps, and information.
 - [Historical Fire Data](https://wildfire.alberta.ca/resources/historical-data/default.aspx)
 
-#### Britsh Columbia
+### Britsh Columbia
 
 - [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Get information on current wildfire activity in B.C., including details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
 
-#### Saskatchewan
+### Saskatchewan
 
 - [Wildfire in Saskatchewan](https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan) - Maps and information.
 
-#### Manitoba
+### Manitoba
 
 - [FireView 2020](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity in Manitoba.
 
-#### Ontario
+### Ontario
 
 - [Forest Fires](https://www.ontario.ca/page/forest-fires) - Information about the current forest fire danger, forest fire activity, and fire restrictions across the province.
 
-#### New Brunswick
+### New Brunswick
 
 - [Forest Fire Watch](https://www2.gnb.ca/content/gnb/en/news/public_alerts/forest_fire_watch.html) - Fire observations, weather, and information.
 
