@@ -8,8 +8,6 @@
 - [Maps](#maps)
 - [Data](#data)
 - [Twitter Accounts](#twitter-accounts)
-- [Contribute](#contribute)
-- [License](#license)
 
 ## Information Resources
 
@@ -98,6 +96,6 @@ There are a number of web browser-based maps which already contain fire activity
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
 - [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - The NIFSC Project is designed to support Indigenous communities in development of their internal capacity to support community safety and resiliency.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
