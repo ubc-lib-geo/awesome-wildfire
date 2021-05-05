@@ -45,7 +45,7 @@
 
 ### Manitoba
 
-- [FireView 2020](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity in Manitoba.
+- [FireView](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity in Manitoba.
 
 ### New Brunswick
 
