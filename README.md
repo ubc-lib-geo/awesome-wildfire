@@ -25,7 +25,7 @@
 - [Canada Wildfire](https://www.canadawildfire.org/) - The Canadian Partnership for Wildland Fire Science.
 - [Canadian Interagency Forest Fire Centre](https://www.ciffc.ca/index.php/) - Coordinates resource and information sharing.
 - [Annotated list of useful fire and weather websites](https://73c61686-1630-4745-842c-cf3169c8dadc.filesusr.com/ugd/90df79_bd193b3491c94e1188f49ccfdd1aa536.pdf) - From the Canadian Partnership for Wildland Fire Science.
-- [Forest Fires](http://nfdp.ccfm.org/en/data/fires.php) - From the National Forestry Database.
+- [Forest Fires Database](http://nfdp.ccfm.org/en/data/fires.php) - From the National Forestry Database.
 - [Global Fire Early Warning System](https://gfmc.online/gwfews/index-12.html) - The Global EWS provides 1-10 day forecasted FWI System data based on the Canadian Meterolological Centre’s (CMC) Global Deterministic Forecast System (GDPS).
 - [Fire Research](https://www.canadawildfire.org/research) - Research projects from Canada Wildfire.
 - [GFMC Early Warning Portal](https://gfmc.online/fwf/fwf.html) - Daily Global and Regional Fire Weather and climate Forecasts & Background Materials.
