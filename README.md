@@ -108,4 +108,4 @@ There are a number of web browser-based maps which already contain fire activity
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/ubc-lib-geo/awesome-wildland-fire-resources/blob/main/contributing.md) first.
