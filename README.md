@@ -1,10 +1,10 @@
-# Awesome Wildland Fire Data Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Wildland Fire Data Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for wildland fire data across Canada. 
 
 ## Contents
 
-- [Canada-Wide Information Resources](#information-resources)
+- [Canada-Wide Information Resources](#canada-wide-information-sources)
 - [Regional Resources](#regional-resources)
     - [Alberta](#alberta)
     - [British Columbia](#british-columbia)
@@ -16,7 +16,7 @@
 - [Data](#data)
     - [Weather Data](#weather-data)
     - [GIS Data](#gis-data)
- - [GIS Fire Research](#gis-fire-research) 
+- [GIS Fire Research](#gis-fire-research) 
 - [Twitter Accounts](#twitter-accounts)
 
 ## Canada-Wide Information Resources
