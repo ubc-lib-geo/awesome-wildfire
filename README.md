@@ -1,4 +1,4 @@
-# Awesome Wildland Fire Resources  [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Wildfire [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > A curated list of wildland fire resources across Canada. 
 
