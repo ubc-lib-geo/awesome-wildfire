@@ -1,4 +1,4 @@
-# Awesome Wildland Fire Data Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Wildland Fire Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > A curated list of wildland fire resources across Canada. 
 
@@ -24,7 +24,7 @@
 - [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) - Creates daily fire weather and fire behavior maps year-round and hot spot maps throughout the forest fire season, generally between May and September.
 - [Canada Wildfire](https://www.canadawildfire.org/) - The Canadian Partnership for Wildland Fire Science.
 - [Canadian Interagency Forest Fire Centre](https://www.ciffc.ca/index.php/) - Coordinates resource and information sharing.
-- [Annotated list of useful fire and weather websites](https://73c61686-1630-4745-842c-cf3169c8dadc.filesusr.com/ugd/90df79_bd193b3491c94e1188f49ccfdd1aa536.pdf) - From the Canadian Partnership for Wildland Fire Science.
+- [Annotated list of useful fire and weather websites](https://73c61686-1630-4745-842c-cf3169c8dadc.filesusr.com/ugd/90df79_bd193b3491c94e1188f49ccfdd1aa536.pdf) - Curated by the Canadian Partnership for Wildland Fire Science.
 - [Forest Fires Database](http://nfdp.ccfm.org/en/data/fires.php) - From the National Forestry Database.
 - [Global Fire Early Warning System](https://gfmc.online/gwfews/index-12.html) - The Global EWS provides 1-10 day forecasted FWI System data based on the Canadian Meterolological Centre (CMC) Global Deterministic Forecast System (GDPS).
 - [Fire Research](https://www.canadawildfire.org/research) - Research projects from Canada Wildfire.
@@ -40,7 +40,7 @@
 
 ### British Columbia
 
-- [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Get information on current wildfire activity in B.C., including details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
+- [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
 
 ### Manitoba
@@ -64,7 +64,7 @@
 There are a number of web browser-based maps which already contain fire activity layers, making it easy to discover fire perimeters along with other pertinent wildfire-related data.
 
 - [NASA FIRMS Fire Map](https://firms.modaps.eosdis.nasa.gov/map/#d:2020-09-24..2020-09-25;@0.0,0.0,3z) - Interactively browse the full archive of global active fire detections from MODIS and VIIRS.
-- [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Smoke forecasts from wildland fires using the BlueSky Canada system. This system produces forecasts of hourly ground-level concentrations of PM2.5 smoke particles from wildfires up to two days into the future. Downloadable data available.
+- [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Hourly smoke forecasts from wildland fires up to two days into the future using the BlueSky Canada system. Downloadable data available.
 - [NASA Fire and Smoke Map](https://fire.airnow.gov/) - Fire and smoke map for Canada and the U.S.
 - [CALTOPO](https://caltopo.com) - Map with multiple base layers, a Fire Activity layer accessing fire perimeters in the U.S. and Canada, multiple satellite infrafred data, and a Wind Plot layer.
 - [CWFIS Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map) - Interactive map with a number of overlays and access to historical data.
