@@ -45,7 +45,7 @@
 
 ### Manitoba
 
-- [FireView](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity in Manitoba.
+- [FireView](https://www.gov.mb.ca/sd/fire/Fire-Maps/fireview/fireview.html) - Map of location and status of current wildfire activity.
 
 ### New Brunswick
 
@@ -53,7 +53,7 @@
 
 ### Ontario
 
-- [Forest Fires](https://www.ontario.ca/page/forest-fires) - Current forest fire danger, forest fire activity, and fire restrictions across the province.
+- [Forest Fires](https://www.ontario.ca/page/forest-fires) - Current forest fire danger, forest fire activity, and fire restrictions.
 
 ### Saskatchewan
 
@@ -75,7 +75,7 @@
 - [Weathernerds Satellite Data](https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES16&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=583&initrange=79.000000000000:-145.000000000000:35.000000000000:-50.000000000000&initloop=False&initnframes=20&initlightning16=On&initlightning17=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=Off&initascata=Off&initascatb=Off&initascatc=Off&initascatamba=Off&initascatambb=Off&initascatambc=Off&initsst=Off) - Satellite data from GOES 16, GOES 17, and Himawari.
 - [NEXLAB Satellite and Radar](https://weather.cod.edu/satrad/) - Global and regional data from College of DuPage via interactive application.
 - [Regional and Mesoscale Meteorology Branch](https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&x=10848&y=10848) - Web application to explore GOES-16 and Himawari-8 satellite imagery.
-- [SSEC Geostationary Satellite Imagery](https://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16-17-comp&end_datetime=latest&n_images=48&coverage=mollweide&channel=14&image_quality=gif&anim_method=javascript) - Select satellite, timeframe, and geographic coverage to see animation of satellite data.
+- [SSEC Geostationary Satellite Imagery](https://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16-17-comp&end_datetime=latest&n_images=48&coverage=mollweide&channel=14&image_quality=gif&anim_method=javascript) - Satellite imagery animation.
 
 ### GIS Data
 
@@ -84,9 +84,9 @@
 - [cffdrs: an R package](https://www.canadawildfire.org/cffdrs-r-package) - An R package for the Canadian Forest Fire Danger Rating System.
 - [Fire Data in Google Earth](https://fsapps.nwcg.gov/googleearth.php)
 - [Fire Data Web Services](https://fsapps.nwcg.gov/afm/wms.php) - OGC web map services (WMS) and web feature services (WFS) for MODIS fire-related products.
-- [NASA EarthData Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) - Active fire products for download from MODIS and VIIRS in shapefile, KML, WMS or text file formats.
-- [Wildland Fire Open Data](https://data-nifc.opendata.arcgis.com/) - ArcGIS Open Data site for the National Interagency Fire Center, U.S.-centric with some global data.
-- [SMARTFIRE](https://firesmoke.ca/smartfire/) - The Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation.
+- [NASA EarthData Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) - Active fire products for download from MODIS and VIIRS in multiple file formats.
+- [Wildland Fire Open Data](https://data-nifc.opendata.arcgis.com/) - ArcGIS Open Data site for the National Interagency Fire Center.
+- [SMARTFIRE](https://firesmoke.ca/smartfire/) - Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation.
 - [FireSmoke Data](https://firesmoke.ca/data/) - Emissions and Firemet downloadable data.
 
 ## GIS Fire Research
@@ -98,11 +98,11 @@
 
 - [Canadian Partnership](https://twitter.com/CanadaWildfire) - Canadian Partnership to study wildland fire science.
 - [Amy Christianson](https://twitter.com/ChristiansonAmy) - Scientist and advocate for Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast).
-- [Mike Flannigan](https://twitter.com/mikeflannigan) - Director of the Western Partnership for Wildland Fire Science located at the University of Alberta.
-- [FireSmart Canada](https://twitter.com/FireSmartCanada) - National program helping #Canadians reduce their #wildfire risk and build #resilience.
+- [Mike Flannigan](https://twitter.com/mikeflannigan) - Director of the Western Partnership for Wildland Fire Science at the University of Alberta.
+- [FireSmart Canada](https://twitter.com/FireSmartCanada) - National program helping Canadians reduce their wildfire risk and build resilience.
 - [Mapping Support](https://twitter.com/MappingSupport) - Creator of GIS Surfer, posting URLs to fire and smoke maps.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series for fire management agencies in Canada.
-- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supports Indigenous communities in community safety and resiliency.
+- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supporting Indigenous communities in community safety and resiliency.
 
 ## Contributing
 
