@@ -21,14 +21,14 @@
 
 ## Canada-Wide Information Resources
 
-- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) - Creates daily fire weather and fire behavior maps year-round and hot spot maps throughout the forest fire season, generally between May and September.
+- [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home) - Creates daily fire weather and fire behavior maps.
 - [Canada Wildfire](https://www.canadawildfire.org/) - The Canadian Partnership for Wildland Fire Science.
 - [Canadian Interagency Forest Fire Centre](https://www.ciffc.ca/index.php/) - Coordinates resource and information sharing.
-- [Annotated list of useful fire and weather websites](https://73c61686-1630-4745-842c-cf3169c8dadc.filesusr.com/ugd/90df79_bd193b3491c94e1188f49ccfdd1aa536.pdf) - Curated by the Canadian Partnership for Wildland Fire Science.
-- [Forest Fires Database](http://nfdp.ccfm.org/en/data/fires.php) - From the National Forestry Database.
-- [Global Fire Early Warning System](https://gfmc.online/gwfews/index-12.html) - The Global EWS provides 1-10 day forecasted FWI System data based on the Canadian Meterolological Centre (CMC) Global Deterministic Forecast System (GDPS).
-- [Fire Research](https://www.canadawildfire.org/research) - Research projects from Canada Wildfire.
-- [GFMC Early Warning Portal](https://gfmc.online/fwf/fwf.html) - Daily Global and Regional Fire Weather and climate Forecasts & Background Materials.
+- [Annotated list of useful fire and weather websites](https://73c61686-1630-4745-842c-cf3169c8dadc.filesusr.com/ugd/90df79_bd193b3491c94e1188f49ccfdd1aa536.pdf)
+- [Forest Fires Database](http://nfdp.ccfm.org/en/data/fires.php)
+- [Global Fire Early Warning System](https://gfmc.online/gwfews/index-12.html)
+- [Fire Research](https://www.canadawildfire.org/research) - Canada Wildfire research.
+- [GFMC Early Warning Portal](https://gfmc.online/fwf/fwf.html) - Daily global and regional fire weather and climate forecasts.
 - [FireSmoke Canada](https://firesmoke.ca/) - Canadian portal for information and resources about smoke from wildland fires.
 
 ## Regional Resources
@@ -40,7 +40,7 @@
 
 ### British Columbia
 
-- [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation) - Details about specific wildfires, fire response efforts, and Fire Danger Ratings across the province.
+- [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation)
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
 
 ### Manitoba
@@ -53,7 +53,7 @@
 
 ### Ontario
 
-- [Forest Fires](https://www.ontario.ca/page/forest-fires) - Information about the current forest fire danger, forest fire activity, and fire restrictions across the province.
+- [Forest Fires](https://www.ontario.ca/page/forest-fires) - Current forest fire danger, forest fire activity, and fire restrictions across the province.
 
 ### Saskatchewan
 
@@ -61,28 +61,26 @@
 
 ## Maps
 
-There are a number of web browser-based maps which already contain fire activity layers, making it easy to discover fire perimeters along with other pertinent wildfire-related data.
-
-- [NASA FIRMS Fire Map](https://firms.modaps.eosdis.nasa.gov/map/#d:2020-09-24..2020-09-25;@0.0,0.0,3z) - Interactively browse the full archive of global active fire detections from MODIS and VIIRS.
-- [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Hourly smoke forecasts from wildland fires up to two days into the future using the BlueSky Canada system. Downloadable data available.
+- [NASA FIRMS Fire Map](https://firms.modaps.eosdis.nasa.gov/map/#d:2020-09-24..2020-09-25;@0.0,0.0,3z) - Interactive map browser for archive of global active fire detections from MODIS and VIIRS.
+- [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Hourly smoke forecasts from wildland fires and downloadable data.
 - [NASA Fire and Smoke Map](https://fire.airnow.gov/) - Fire and smoke map for Canada and the U.S.
-- [CALTOPO](https://caltopo.com) - Map with multiple base layers, a Fire Activity layer accessing fire perimeters in the U.S. and Canada, multiple satellite infrafred data, and a Wind Plot layer.
-- [CWFIS Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map) - Interactive map with a number of overlays and access to historical data.
+- [CALTOPO](https://caltopo.com) - Fire perimeters, multiple satellite infrared data, and wind plot.
+- [Canadian Wildland Fire Information System Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map)
 - [Canadian National Fire Database (CNFDB)](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb) - Forest fire perimeters.
 
 ## Data
 
 ### Weather Data
 
-- [Weathernerds Satellite Data](https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES16&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=583&initrange=79.000000000000:-145.000000000000:35.000000000000:-50.000000000000&initloop=False&initnframes=20&initlightning16=On&initlightning17=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=Off&initascata=Off&initascatb=Off&initascatc=Off&initascatamba=Off&initascatambb=Off&initascatambc=Off&initsst=Off) - Satellite data from GOES 16, GOES 17, and Himawari. User can pan and zoom and create animated GIFs.
+- [Weathernerds Satellite Data](https://www.weathernerds.org/satellite/?initsatsrc=On&initsatname=GOES16&initsattype=ir&initcscheme=ir1&initimdimx=1050&initimdimy=583&initrange=79.000000000000:-145.000000000000:35.000000000000:-50.000000000000&initloop=False&initnframes=20&initlightning16=On&initlightning17=Off&initltngfed=Off&initltngtoe=Off&initinterstates=On&initwarnings=On&initlatlon=Off&initascata=Off&initascatb=Off&initascatc=Off&initascatamba=Off&initascatambb=Off&initascatambc=Off&initsst=Off) - Satellite data from GOES 16, GOES 17, and Himawari.
 - [NEXLAB Satellite and Radar](https://weather.cod.edu/satrad/) - Global and regional data from College of DuPage via interactive application.
-- [Regional and Mesoscale Meteorology Branch](https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&x=10848&y=10848) - SLIDER: Satellite Loop Interactive Data Explorer in Real-time is a web application to facilitate exploring GOES-16 and Himawari-8 satellite imagery.
+- [Regional and Mesoscale Meteorology Branch](https://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=geocolor&x=10848&y=10848) - Web application to facilitate exploring GOES-16 and Himawari-8 satellite imagery.
 - [SSEC Geostationary Satellite Imagery](https://www.ssec.wisc.edu/data/geo/#/animation?satellite=goes-16-17-comp&end_datetime=latest&n_images=48&coverage=mollweide&channel=14&image_quality=gif&anim_method=javascript) - Select satellite, timeframe, and geographic coverage to see animation of satellite data.
 
 ### GIS Data
 
 - [Forest Fires](http://nfdp.ccfm.org/en/download.php) - Download data in CSV format from the National Forestry Database.
-- [Burn-P3](https://www.canadawildfire.org/burn-p3-english) - Burn-P3 (probability, prediction, and planning) is a spatial fire simulation model that is used for land-management planning and wildland fire research.
+- [Burn-P3](https://www.canadawildfire.org/burn-p3-english) - Spatial fire simulation model.
 - [cffdrs: an R package](https://www.canadawildfire.org/cffdrs-r-package) - The cffdrs package allows R users to calculate the outputs of the two main components of the Canadian Forest Fire Danger Rating System (CFFDRS): the Fire Weather Index (FWI) System and the Fire Behaviour Prediction (FBP).
 - [Fire Data in Google Earth](https://fsapps.nwcg.gov/googleearth.php)
 - [Fire Data Web Services](https://fsapps.nwcg.gov/afm/wms.php) - OGC web map services (WMS) and web feature services (WFS) for MODIS fire-related products.
