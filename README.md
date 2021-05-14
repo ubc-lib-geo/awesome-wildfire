@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Canada-Wide Information Resources](##canada-wide-information-resources)
+- [Canada-Wide Information Resources](#canada-wide-information-resources)
 - [Regional Resources](#regional-resources)
     - [Alberta](#alberta)
     - [British Columbia](#british-columbia)
