@@ -1,23 +1,22 @@
-# Awesome Wildfire  
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Wildfire [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of wildland fire resources across Canada. 
+> A curated list of wildland fire resources across Canada.
 
 ## Contents
 
 - [Canada-Wide Information Resources](#canada-wide-information-resources)
 - [Regional Resources](#regional-resources)
-    - [Alberta](#alberta)
-    - [British Columbia](#british-columbia)
-    - [Manitoba](#manitoba)
-    - [New Brunswick](#new-brunswick)
-    - [Ontario](#ontario)
-    - [Saskatchewan](#saskatchewan)
+  - [Alberta](#alberta)
+  - [British Columbia](#british-columbia)
+  - [Manitoba](#manitoba)
+  - [New Brunswick](#new-brunswick)
+  - [Ontario](#ontario)
+  - [Saskatchewan](#saskatchewan)
 - [Maps](#maps)
 - [Data](#data)
-    - [Weather Data](#weather-data)
-    - [GIS Data](#gis-data)
-- [GIS Fire Research](#gis-fire-research) 
+  - [Weather Data](#weather-data)
+  - [GIS Data](#gis-data)
+- [GIS Fire Research](#gis-fire-research)
 - [Twitter](#twitter)
 
 ## Canada-Wide Information Resources
