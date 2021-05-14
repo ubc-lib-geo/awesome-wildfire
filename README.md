@@ -61,7 +61,7 @@
 
 ## Maps
 
-- [NASA FIRMS Fire Map](https://firms.modaps.eosdis.nasa.gov/map/#d:2020-09-24..2020-09-25;@0.0,0.0,3z) - Interactive map browser for archive of global active fire detections from MODIS and VIIRS.
+- [NASA FIRMS Fire Map](https://firms.modaps.eosdis.nasa.gov/map/#d:2020-09-24..2020-09-25;@0.0,0.0,3z) - Interactive map browser of global active fire detections archive from MODIS and VIIRS.
 - [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Hourly smoke forecasts from wildland fires and downloadable data.
 - [NASA Fire and Smoke Map](https://fire.airnow.gov/) - Fire and smoke map for Canada and the U.S.
 - [CALTOPO](https://caltopo.com) - Fire perimeters, multiple satellite infrared data, and wind plot.
@@ -81,28 +81,28 @@
 
 - [Forest Fires](http://nfdp.ccfm.org/en/download.php) - Download data in CSV format from the National Forestry Database.
 - [Burn-P3](https://www.canadawildfire.org/burn-p3-english) - Spatial fire simulation model.
-- [cffdrs: an R package](https://www.canadawildfire.org/cffdrs-r-package) - The cffdrs package allows R users to calculate the outputs of the two main components of the Canadian Forest Fire Danger Rating System (CFFDRS): the Fire Weather Index (FWI) System and the Fire Behaviour Prediction (FBP).
+- [cffdrs: an R package](https://www.canadawildfire.org/cffdrs-r-package) - An R package for the Canadian Forest Fire Danger Rating System.
 - [Fire Data in Google Earth](https://fsapps.nwcg.gov/googleearth.php)
 - [Fire Data Web Services](https://fsapps.nwcg.gov/afm/wms.php) - OGC web map services (WMS) and web feature services (WFS) for MODIS fire-related products.
-- [NASA EarthData Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) - Download active fire products from MODIS and VIIRS for the last 24, 48 hours and 7 days in shapefile, KML, WMS or text file formats.
+- [NASA EarthData Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) - Active fire products for download from MODIS and VIIRS in shapefile, KML, WMS or text file formats.
 - [Wildland Fire Open Data](https://data-nifc.opendata.arcgis.com/) - ArcGIS Open Data site for the National Interagency Fire Center, U.S.-centric with some global data.
-- [SMARTFIRE](https://firesmoke.ca/smartfire/) - The Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation is an algorithm and database system that operate within a geographic information system (GIS) framework. SMARTFIRE combines multiple sources of fire information and reconciles them into a unified GIS database.
+- [SMARTFIRE](https://firesmoke.ca/smartfire/) - The Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation.
 - [FireSmoke Data](https://firesmoke.ca/data/) - Emissions and Firemet downloadable data.
 
 ## GIS Fire Research
 
 - [Radar and Lidar Observations of Wildfire Plume Dynamics](https://frg.berkeley.edu/radar-and-lidar-observations-of-wildfire-plume-dynamics/)
-- [Research using the NFID](http://nfidcanada.ca/project-status/) - Research across Canadian universities using NFID data.
+- [Research using the NFID](http://nfidcanada.ca/project-status/) - Research across Canadian universities using National Fire Information Database.
 
 ## Twitter
 
-- [Canadian Partnership](https://twitter.com/CanadaWildfire) - Canadian Partnership to study wildland fire science and address priority research needs by creating a fire science hub.
-- [Amy Christianson](https://twitter.com/ChristiansonAmy) - Fire research scientist advocating Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast).
-- [Mike Flannigan](https://twitter.com/mikeflannigan) - Professor of Wildland Fire at University of Alberta.
-- [FireSmart Canada](https://twitter.com/FireSmartCanada) - The go-to national program helping #Canadians reduce their #wildfire risk and build #resilience. Science-based programs & tools.
-- [Mapping Support](https://twitter.com/MappingSupport) - Personal Twitter handle of Joseph Elfelt, creator of GIS Surfer, who also posts URLs to fire maps. U.S.-centric.
-- [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series that networks fire management agencies in Canada. These biennial conferences focus on fire management in Canada.
-- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - The NIFSC Project is designed to support Indigenous communities in development of their internal capacity to support community safety and resiliency.
+- [Canadian Partnership](https://twitter.com/CanadaWildfire) - Canadian Partnership to study wildland fire science.
+- [Amy Christianson](https://twitter.com/ChristiansonAmy) - Scientist and advocate for Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast).
+- [Mike Flannigan](https://twitter.com/mikeflannigan) - Director of the Western Partnership for Wildland Fire Science located at the University of Alberta.
+- [FireSmart Canada](https://twitter.com/FireSmartCanada) - National program helping #Canadians reduce their #wildfire risk and build #resilience.
+- [Mapping Support](https://twitter.com/MappingSupport) - Creator of GIS Surfer, who posts URLs to fire maps. U.S.-centric.
+- [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series for fire management agencies in Canada.
+- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supports Indigenous communities in development of their internal capacity to support community safety and resiliency.
 
 ## Contributing
 
