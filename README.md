@@ -100,9 +100,9 @@
 - [Amy Christianson](https://twitter.com/ChristiansonAmy) - Scientist and advocate for Indigenous wildfire stewardship and host of podcast [Good Fire](https://yourforestpodcast.com/good-fire-podcast).
 - [Mike Flannigan](https://twitter.com/mikeflannigan) - Director of the Western Partnership for Wildland Fire Science located at the University of Alberta.
 - [FireSmart Canada](https://twitter.com/FireSmartCanada) - National program helping #Canadians reduce their #wildfire risk and build #resilience.
-- [Mapping Support](https://twitter.com/MappingSupport) - Creator of GIS Surfer, who posts URLs to fire maps. U.S.-centric.
+- [Mapping Support](https://twitter.com/MappingSupport) - Creator of GIS Surfer, posting URLs to fire and smoke maps.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series for fire management agencies in Canada.
-- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supports Indigenous communities in development of their internal capacity to support community safety and resiliency.
+- [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supports Indigenous communities in community safety and resiliency.
 
 ## Contributing
 
