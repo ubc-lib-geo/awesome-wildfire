@@ -17,7 +17,7 @@
     - [Weather Data](#weather-data)
     - [GIS Data](#gis-data)
 - [GIS Fire Research](#gis-fire-research) 
-- [Twitter Accounts](#twitter-accounts)
+- [Twitter](#twitter)
 
 ## Canada-Wide Information Resources
 
