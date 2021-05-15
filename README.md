@@ -10,8 +10,10 @@
   - [British Columbia](#british-columbia)
   - [Manitoba](#manitoba)
   - [New Brunswick](#new-brunswick)
+  - [Northwest Territories](#northwest-territories)
   - [Ontario](#ontario)
   - [Saskatchewan](#saskatchewan)
+  - [Yukon](#yukon)
 - [Maps](#maps)
 - [Data](#data)
   - [Weather Data](#weather-data)
@@ -30,6 +32,7 @@
 - [Fire Research](https://www.canadawildfire.org/research) - Canada Wildfire research.
 - [GFMC Early Warning Portal](https://gfmc.online/fwf/fwf.html) - Daily global and regional fire weather and climate forecasts.
 - [FireSmoke Canada](https://firesmoke.ca/) - Canadian portal for information and resources about smoke from wildland fires.
+- [NASA Earthdata Wildfires Toolkit](https://earthdata.nasa.gov/learn/toolkits/wildfires)
 
 ## Regional Resources
 
@@ -42,6 +45,7 @@
 
 - [Current Wildfire Activity](https://www2.gov.bc.ca/gov/content/safety/wildfire-status/wildfire-situation)
 - [B.C. Wildfire Dashboard](https://governmentofbc.maps.arcgis.com/apps/opsdashboard/index.html#/f0ac328d88c74d07aa2ee385abe2a41b)
+- [EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?v=-150.93631888618643,27.400561971879853,-83.36428046569551,60.37712447187985&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&tr=california_british_columbia_wildfires_summer_2018&t=2018-08-17-T00%3A00%3A00Z) - Interactive map of British Columbia 2018 wildfire. 
 
 ### Manitoba
 
@@ -51,6 +55,10 @@
 
 - [Forest Fire Watch](https://www2.gnb.ca/content/gnb/en/news/public_alerts/forest_fire_watch.html) - Fire observations, weather, and information.
 
+### Northwest Territories
+
+- [NWT Live Fire Map](https://www.enr.gov.nt.ca/en/easymap)
+
 ### Ontario
 
 - [Forest Fires](https://www.ontario.ca/page/forest-fires) - Current forest fire danger, forest fire activity, and fire restrictions.
@@ -58,6 +66,11 @@
 ### Saskatchewan
 
 - [Wildfire in Saskatchewan](https://www.saskatchewan.ca/residents/environment-public-health-and-safety/wildfire-in-saskatchewan) - Maps and information.
+
+### Yukon
+
+- [Wildfire Information Map](https://arcg.is/KC8bO)
+- [Yukon Fire History Atlas](https://emrlibrary.gov.yk.ca/maps/fire-history-atlas/html/main/Download.html)
 
 ## Maps
 
@@ -67,6 +80,7 @@
 - [CALTOPO](https://caltopo.com) - Fire perimeters, multiple satellite infrared data, and wind plot.
 - [Canadian Wildland Fire Information System Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map)
 - [Canadian National Fire Database (CNFDB)](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb) - Forest fire perimeters.
+- [Worldview](https://worldview.earthdata.nasa.gov/?v=-260.0062190517805,-134.34633982454613,272.17856099142125,125.37092001945388&l=MODIS_Aqua_Thermal_Anomalies_All(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),MODIS_Terra_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All(hidden),Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2019-07-08-T00%3A00%3A00Z) - Visualize fires and thermal anomalies data.
 
 ## Data
 
@@ -88,6 +102,7 @@
 - [Wildland Fire Open Data](https://data-nifc.opendata.arcgis.com/) - ArcGIS Open Data site for the National Interagency Fire Center.
 - [SMARTFIRE](https://firesmoke.ca/smartfire/) - Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation.
 - [FireSmoke Data](https://firesmoke.ca/data/) - Emissions and Firemet downloadable data.
+- [ORNL DAAC](https://daac.ornl.gov/cgi-bin/theme_dataset_lister.pl?theme_id=8) - Maps of fire extent and severity and estimates of carbon emissions from fires.
 
 ## GIS Fire Research
 
