@@ -78,9 +78,9 @@
 - [Smoke Forecast](https://firesmoke.ca/forecasts/current/) - Hourly smoke forecasts from wildland fires and downloadable data.
 - [NASA Fire and Smoke Map](https://fire.airnow.gov/) - Fire and smoke map for Canada and the U.S.
 - [CALTOPO](https://caltopo.com) - Fire perimeters, multiple satellite infrared data, and wind plot.
-- [Canadian Wildland Fire Information System Interactive map](https://cwfis.cfs.nrcan.gc.ca/interactive-map)
+- [Canadian Wildland Fire Information System Interactive Map](https://cwfis.cfs.nrcan.gc.ca/interactive-map)
 - [Canadian National Fire Database (CNFDB)](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb) - Forest fire perimeters.
-- [Worldview](https://worldview.earthdata.nasa.gov/?v=-260.0062190517805,-134.34633982454613,272.17856099142125,125.37092001945388&l=MODIS_Aqua_Thermal_Anomalies_All(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),MODIS_Terra_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All(hidden),Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2019-07-08-T00%3A00%3A00Z) - Visualize fires and thermal anomalies data.
+- [NASA Worldview Tool](https://worldview.earthdata.nasa.gov/?v=-260.0062190517805,-134.34633982454613,272.17856099142125,125.37092001945388&l=MODIS_Aqua_Thermal_Anomalies_All(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),MODIS_Terra_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All(hidden),Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2019-07-08-T00%3A00%3A00Z) - Visualize fires and thermal anomalies data.
 
 ## Data
 
@@ -95,14 +95,14 @@
 
 - [Forest Fires](http://nfdp.ccfm.org/en/download.php) - Download data in CSV format from the National Forestry Database.
 - [Burn-P3](https://www.canadawildfire.org/burn-p3-english) - Spatial fire simulation model.
-- [cffdrs: an R package](https://www.canadawildfire.org/cffdrs-r-package) - An R package for the Canadian Forest Fire Danger Rating System.
+- [cffdrs](https://www.canadawildfire.org/cffdrs-r-package) - An R package for the Canadian Forest Fire Danger Rating System.
 - [Fire Data in Google Earth](https://fsapps.nwcg.gov/googleearth.php)
 - [Fire Data Web Services](https://fsapps.nwcg.gov/afm/wms.php) - OGC web map services (WMS) and web feature services (WFS) for MODIS fire-related products.
 - [NASA EarthData Active Fire Data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data) - Active fire products for download from MODIS and VIIRS in multiple file formats.
 - [Wildland Fire Open Data](https://data-nifc.opendata.arcgis.com/) - ArcGIS Open Data site for the National Interagency Fire Center.
 - [SMARTFIRE](https://firesmoke.ca/smartfire/) - Satellite Mapping Automated Reanalysis Tool for Fire Incident Reconciliation.
 - [FireSmoke Data](https://firesmoke.ca/data/) - Emissions and Firemet downloadable data.
-- [ORNL DAAC](https://daac.ornl.gov/cgi-bin/theme_dataset_lister.pl?theme_id=8) - Maps of fire extent and severity and estimates of carbon emissions from fires.
+- [ORNL DAAC](https://daac.ornl.gov/cgi-bin/theme_dataset_lister.pl?theme_id=8) - Fire extent and severity and estimates of carbon emissions from fires.
 
 ## GIS Fire Research
 
