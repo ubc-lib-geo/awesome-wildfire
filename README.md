@@ -20,6 +20,7 @@
   - [GIS Data](#gis-data)
 - [GIS Fire Research](#gis-fire-research)
 - [Twitter](#twitter)
+- [Podcasts](#podcasts)
 
 ## Canada-Wide Information Resources
 
@@ -118,6 +119,18 @@
 - [Mapping Support](https://twitter.com/MappingSupport) - Creator of GIS Surfer, posting URLs to fire and smoke maps.
 - [Wildland Fire Canada](https://twitter.com/wildlandfirecan) - Conference series for fire management agencies in Canada.
 - [National Indigenous Fire Safety Council Project](https://twitter.com/NIFSC_CA) - Supporting Indigenous communities in community safety and resiliency.
+
+## Podcasts
+
+- [Good Fire](https://yourforestpodcast.com/good-fire-podcast)
+- [World on Fire](https://www.cbc.ca/listen/cbc-podcasts/422-world-on-fire)
+- [Fire Ecology Chats](https://fireecology.org/feco-podcast)
+- [The Get FireSmart Podcast](https://www.getinvolved.rdn.ca/rdn-wildfire-resiliency/news_feed/introducing-the-get-firesmart-podcast)
+- [One Foot in the Black](https://www.kswild.org/one-foot-in-the-black-podcast)
+- [Wildfire](https://podtail.com/podcast/wildfire/)
+- [Fireline](https://www.firelinepodcast.org/)
+- [Indigenous Fire Ecology ([Ologies episode](https://www.alieward.com/ologies)](https://www.alieward.com/ologies/goodfire)
+- [Fire Ecology]([Ologies episode](https://www.alieward.com/ologies)](https://www.alieward.com/ologies/fireecology)
 
 ## Contributing
 
