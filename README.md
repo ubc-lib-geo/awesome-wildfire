@@ -129,8 +129,8 @@
 - [One Foot in the Black](https://www.kswild.org/one-foot-in-the-black-podcast)
 - [Wildfire](https://podtail.com/podcast/wildfire/)
 - [Fireline](https://www.firelinepodcast.org/)
-- [Indigenous Fire Ecology]([Ologies episode](https://www.alieward.com/ologies) https://www.alieward.com/ologies/goodfire)
-- [Fire Ecology]([Ologies episode](https://www.alieward.com/ologies) https://www.alieward.com/ologies/fireecology)
+- [Indigenous Fire Ecology](https://www.alieward.com/ologies/goodfire), [Ologies episode](https://www.alieward.com/ologies)
+- [Fire Ecology]( https://www.alieward.com/ologies/fireecology), [Ologies episode](https://www.alieward.com/ologies)
 
 ## Contributing
 
